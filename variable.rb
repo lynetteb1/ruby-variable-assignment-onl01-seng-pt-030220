@@ -1,4 +1,4 @@
  # Define a local variable called 'greeting',
  # give it the value of the string "Hello World"
 myString= Hello World  
-puts 
+puts myString
